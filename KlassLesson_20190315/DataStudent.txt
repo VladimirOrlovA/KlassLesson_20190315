@@ -1,0 +1,6 @@
+5
+Cheb Chebur 1 5 5 5 5 5
+Krok Gena 45 5 4 5 5 5
+Shapak Tetja 65 3 2 3 4 5
+Larissa Krissa 3 5 2 3 4 5
+Lev Korol 10 4 4 3 4 5
